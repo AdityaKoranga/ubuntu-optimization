@@ -112,6 +112,9 @@ Now search for gnome-tweak using super key and open it
 
 * Inside it go to Appearance:
 * In Application, select Gtk-master.
+
+> Note: If Application option is missing in your tweak, then search for the legacy in the search box and then select Gtk-master.
+
 * In Icons, change it to Dracula.
 You will be able to see the changes.
 
