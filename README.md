@@ -9,7 +9,7 @@ sudo snap install starship
 ```
 Add `eval "$(starship init bash)"` in the `~/.bashrc` file.
 ```bash
-echo 'eval "$(startship init bash)" ' >> ~/.bashrc
+echo 'eval "$(starship init bash)" ' >> ~/.bashrc
 ```
 > Now exit and restart the terminal and you will see some changes
 
