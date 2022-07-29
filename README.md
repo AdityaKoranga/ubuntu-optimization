@@ -119,7 +119,7 @@ You will be able to see the changes.
 
 ### 6. Remove the current dock and install plank dock.
 
-Using super key search for extensions and open it.
+Using super key search for extensions and open it. If not available in your system, then download it from ubuntu software.
 
 <img src="./images/sc5.png" alt="drawing" width="250"/>
 
