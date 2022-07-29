@@ -150,7 +150,7 @@ And then customize everything according to the following images.
 
 Now copy the whole code given below.
 ```bash
-Desktop Entry]
+[Desktop Entry]
 Type=Application
 Exec=plank
 Hidden=false
