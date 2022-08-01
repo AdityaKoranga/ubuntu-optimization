@@ -54,7 +54,7 @@ mv dracula.xml ~/.local/share/gedit/styles/
 Now final step is to activate the dracula theme on `gedit`
 * So now open the gedit text editor
 
-<img src="./images/sc1.png" alt="drawing" width="400"/>
+![image](https://user-images.githubusercontent.com/95766110/182152354-4ebda736-de6c-4fed-b6ef-f3d29dcaa0ae.png)
 
 * Now click on three lines and then click on `preferences`.
 
