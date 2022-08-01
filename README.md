@@ -9,7 +9,7 @@ sudo snap install starship
 ```
 Add `eval "$(starship init bash)"` in the `~/.bashrc` file.
 ```bash
-echo 'eval "$(startship init bash)" ' >> ~/.bashrc
+echo 'eval "$(starship init bash)" ' >> ~/.bashrc
 ```
 > Now exit and restart the terminal and you will see some changes
 
@@ -112,6 +112,11 @@ Now search for gnome-tweak using super key and open it
 
 * Inside it go to Appearance option:
 * In Application, select Gtk-master.
+
+> Note: If Application option is missing in your tweak, then search for the legacy in its search box and then select Gtk-master. 
+
+![image](https://user-images.githubusercontent.com/97805339/181738189-3466617b-4bd1-4344-8d3a-92b59e552e82.png)
+
 * In Icons, change it to Dracula.
 You will be able to see the changes.
 
@@ -119,7 +124,7 @@ You will be able to see the changes.
 
 ### 6. Remove the current dock and install plank dock.
 
-Using super key search for extensions and open it.
+Using super key search for extensions and open it. If not available in your system, then download it from ubuntu software.
 
 <img src="./images/sc5.png" alt="drawing" width="250"/>
 
@@ -150,7 +155,7 @@ And then customize everything according to the following images.
 
 Now copy the whole code given below.
 ```bash
-Desktop Entry]
+[Desktop Entry]
 Type=Application
 Exec=plank
 Hidden=false
