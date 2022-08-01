@@ -110,7 +110,7 @@ Now search for gnome-tweak using super key and open it
 
 <img src="./images/sc4.png" alt="drawing" width="400"/>
 
-* Inside it go to Appearance:
+* Inside it go to Appearance option:
 * In Application, select Gtk-master.
 * In Icons, change it to Dracula.
 You will be able to see the changes.
